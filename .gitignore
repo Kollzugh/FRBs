@@ -1,0 +1,4 @@
+# This tells git what not to track, like log, compiled, or cached files 
+__pycache__/
+*.pyc
+.DS_Store
