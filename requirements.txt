@@ -1,0 +1,19 @@
+# !!See README.md to install the setup with this file!!
+
+# Plotting
+matplotlib
+
+# Data science
+llvmlite
+numpy
+pandas
+scipy
+
+# Astronomy
+cfod==2021.6.4
+astropy
+astroquery
+git+https://github.com/desihub/desitarget.git@4.3.0
+astro-datalab
+pygdsm
+corner
