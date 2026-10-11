@@ -1,6 +1,7 @@
 # Cosmology with Fast Radio Bursts
+Supervisor: Ajith Sampath, Postdoctoral Researcher, Department of Theoretical Physics, University of Geneva.  
 Author: Swan Dubief, MSc Theoretical Physics, University of Geneva, 2026.  
-Context: Theory modules.  
+Context: Theory modules.
 
 ## Installation/Setup on Unix/Linux systems with conda:
 ### Installation  
